@@ -4,7 +4,7 @@ This repository contains the Python code that fetches asset return data and impl
 
 Below is an explanation of the repository structure:
 
-## 1. Functions that implement underlying methodologies and optimization algorithms, as well as functions that generate illustrations and results:
+## 1. Functions that implement the underlying methodologies, optimization algorithms, illustrations and results:
 - `functions.py`
 
 ## 2. Simulation-Based Analysis: Table 1, Table 2, Table 9, Figure 6
