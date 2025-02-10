@@ -1,6 +1,7 @@
 # Eigenvalue-Regularized Covariance Estimation for Robust Portfolio Construction
 
-This repository contains the Python code that fetches asset return data and implements the simulation-based and empirical analyses conducted for my Master's thesis titled *"Eigenvalue-Regularized Covariance Estimation for Robust Portfolio Construction"*, as part of the **Master in Banking & Finance** at the **University of St. Gallen**.
+This repository contains the Python code that fetches asset return data and implements the simulation-based and empirical analyses conducted for my Master's thesis titled *"Eigenvalue-Regularized Covariance Estimation for Robust Portfolio Construction"*.
+The thesis is written as part of the **Master in Banking & Finance** at the **University of St. Gallen**.
 
 Below is an explanation of the repository structure:
 
